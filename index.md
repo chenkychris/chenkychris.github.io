@@ -10,9 +10,14 @@ My name is Kuangyu Chen. I am an undergraduate in [School of Information](http:/
 
 ## Education
 
-Sep. 2020 ~ Present: B.S. in School of Information, Renmin University of China.  
+Sep. 2020 ~ Present: B.S. in School of Information, Renmin University of China.
 
 ## Publications
 
-**[ICDE 23]**``EdgeNN: Efficient Neural Network Inference for CPU-GPU Integrated Edge Devices";  
-Chenyang Zhang, Feng Zhang, **Kuangyu Chen**, Mingjun Chen, Bingsheng He, Xiaoyong Du;The 39th IEEE International Conference on Data Engineering (ICDE 2023). [[Paper]](http://chenkychris.github.io/files/ICDE23_EdgeNN.pdf)
+**[ICDE'23]** "EdgeNN: Efficient Neural Network Inference for CPU-GPU Integrated Edge Devices";  
+Chenyang Zhang, Feng Zhang, **Kuangyu Chen**, Mingjun Chen, Bingsheng He, Xiaoyong Du;
+The 39th IEEE International Conference on Data Engineering (ICDE'23).[[Paper]](http://chenkychris.github.io/files/ICDE23_EdgeNN.pdf)
+
+**[TPDS (Submitted)]** "Breaking the Edge: Enabling Efficient Neural Network Inference on Integrated Edge Devices"
+Chenyang Zhang, Feng Zhang, Qiangjun Zhou, **Kuangyu Chen**, Hechen Zhang, Bingsheng He, Jidong Zhai, and Xiaoyong Du;
+IEEE Transactions on Parallel and Distributed Systems (TPDS).
